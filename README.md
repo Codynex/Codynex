@@ -101,13 +101,6 @@ Complete web infrastructure setup and management
 - Business Email
 - SSL & Security Setup
 
-## 💰 Pricing Plans
-
-- **Single Page Website**: ₹3,999 (Renewal: ₹2,000/year)
-- **Standard Website**: ₹8,999 (Renewal: ₹3,000/year) ⭐ Most Popular
-- **E-Commerce Website**: ₹14,999 (Renewal: ₹6,000/year)
-- **Custom Application**: Custom pricing based on requirements
-
 ### Additional Services
 - **Custom Mobile App Development**: Starting from ₹39,999
 - **Logo Creation**: ₹2,500
