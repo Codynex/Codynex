@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/icon.png" alt="Codynex Technology" width="90" height="90" />
+<img src="logo-new.png" alt="Codynex Technology" width="90" height="90" />
 
 # Codynex Technology
 
