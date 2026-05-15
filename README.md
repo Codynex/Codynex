@@ -4,7 +4,7 @@
 
 We create stunning websites, powerful software solutions, and innovative digital experiences that help your business grow and succeed.
 
-![Codynex](logo.png)
+![Codynex](logo-new.png)
 
 ## 🚀 About Us
 
